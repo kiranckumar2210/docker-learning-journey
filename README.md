@@ -222,21 +222,7 @@ See [RESOURCES.md](./RESOURCES.md) for a curated list of:
 
 ---
 
-## 📝 Commit History Philosophy
 
-Each day follows a consistent commit message format:
-```
-Day XX: [Topic] — [What was accomplished]
-```
-
-Example:
-```
-Day 01: Docker Introduction — Added containerization concepts and architecture notes
-Day 08: Dockerfile Basics — Added FROM, RUN, COPY, CMD instructions with examples
-Day 15: Final Project — Deployed Flask + Redis + Nginx multi-container application
-```
-
----
 
 ## 📄 License
 
