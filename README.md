@@ -157,7 +157,7 @@ User ──────────────▶│    Nginx    │  Port 80
 ### Quick Start
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/docker-learning-journey.git
+git clone https://github.com/kiranckumar2210/docker-learning-journey.git
 cd docker-learning-journey/Projects/flask-redis-nginx
 docker compose up -d
 # Visit http://localhost
