@@ -30,10 +30,10 @@
 
 | Day | Topic | Status |
 |-----|-------|--------|
-| Day 01 | Docker Introduction & Concepts | ⬜ |
-| Day 02 | Docker Installation & Setup | ⬜ |
-| Day 03 | Docker Images | ⬜ |
-| Day 04 | Docker Containers | ⬜ |
+| Day 01 | Docker Introduction & Concepts | ✅ |
+| Day 02 | Docker Installation & Setup | ✅ |
+| Day 03 | Docker Images | ✅ |
+| Day 04 | Docker Containers | ✅ |
 | Day 05 | Container Lifecycle | ⬜ |
 | Day 06 | Docker Hub & Registry | ⬜ |
 | Day 07 | Revision & Mini Lab | ⬜ |
